@@ -40,11 +40,8 @@ npm run dev
 
 ```sh
 npx json-server --watch db.json
+```
 
-## Videos and Screenshots
-
-![gif of films app](/forReadme/demo1.gif)
-![gif of films app](/forReadme/demo2.gif)
 
 ## Built With
 
