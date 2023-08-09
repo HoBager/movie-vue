@@ -3,8 +3,8 @@
 ## Summary
 
 - [About the Project](#about-the-project)
-- [Usage](#usage)
 - [Videos and Screenshots](#videos-and-screenshots)
+- [Installation](#installation)
 - [Built With](#built-with)
 - [Authors](#authors)
 
